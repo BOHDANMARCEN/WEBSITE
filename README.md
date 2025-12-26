@@ -129,4 +129,3 @@ The site is designed to work seamlessly with GitHub Pages:
 4. Site will be available at `https://BOHDANMARCEN.github.io`
 
 All assets are optimized for performance and security.
-

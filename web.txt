@@ -1,6 +1,11 @@
-Прийнято. Робимо **все три** — чітко, флагмансько, без води. Нижче готові артефакти, які можна **копіювати й одразу використовувати**.
+мої кращі проекти:
+https://github.com/BOHDANMARCEN/Arium-AI-Powered-IDE-Agent-Platform
+https://github.com/BOHDANMARCEN/-ClamAV-Security-Center-webui
+https://github.com/BOHDANMARCEN/-Arium-WebGen-AI-Powered-Local-HTML-CSS-JS-Generator
+https://github.com/BOHDANMARCEN/Melos-AI
 
----
+8736d06805ac4d5781eabbd2970644d1.SQwf7IHkCJdVUUhx4YY16CCg
+
 
 ## 🔒 SECURITY-FIRST VERSION (принципи + що саме змінюємо)
 
